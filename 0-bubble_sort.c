@@ -38,3 +38,4 @@ void echange(int *c, int *d)
 	*c = *d;
 	*d = temporaire;
 }
+
